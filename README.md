@@ -1,4 +1,4 @@
-## Me chamo Gustavo e sou Estudante de Engenharia de Software!
+## Me chamo Gustavo!
 <div style="display: inline_block"><br>
   <img align="center" alt="gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gusta-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
